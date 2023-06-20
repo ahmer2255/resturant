@@ -1,0 +1,59 @@
+{
+  "restaurant": [
+    {
+      "name": "dzfs",
+      "email": "sfa@gmail.com",
+      "ratio": "77",
+      "address": "asf",
+      "id": 20
+    },
+    {
+      "name": "gga hit",
+      "email": "gghut@gmail.com",
+      "ratio": "4",
+      "address": "fsd",
+      "id": 21
+    },
+    {
+      "name": "ewr",
+      "email": "werw",
+      "ratio": "werw",
+      "address": "werewre",
+      "id": 22
+    },
+    {
+      "name": "ewr",
+      "email": "werw@",
+      "ratio": "werw",
+      "address": "werewre",
+      "id": 23
+    },
+    {
+      "name": "ewr",
+      "email": "werw@gmail.com",
+      "ratio": "werw",
+      "address": "werewre",
+      "id": 24
+    },
+    {
+      "name": "jj",
+      "email": "jj@gmail.com",
+      "ratio": "77",
+      "address": "fsd",
+      "id": 25
+    },
+    {
+      "name": "kkk",
+      "email": "kk@gmail.com",
+      "ratio": "66",
+      "address": "fsd",
+      "id": 26
+    }
+  ],
+  "login": [
+    {
+      "email": "lifehut@gmail.com",
+      "password": "ab12345"
+    }
+  ]
+}
